@@ -1,0 +1,1 @@
+create table products(id bigint auto_increment, productname varchar(255), price bigint, stock bigint, constraint pk_books primary key(id));
